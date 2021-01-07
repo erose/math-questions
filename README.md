@@ -1,4 +1,9 @@
-Sources:
+Source:
+  * [FB post](https://m.facebook.com/story.php?story_fbid=10159302710865517&id=739115516&anchor_composer=false)
+
+#### Puzzle: Alice wants to join her school's Probability Student Club. Membership dues are computed via one of two simple probabilistic games. The first game: roll a dice repeatedly. Stop rolling once you get a five followed by a six. Your number of rolls is the amount you pay, in dollars. The second game: same, except that the stopping condition is a five followed by a five. Which of the two games should Alice elect to play?
+
+Source:
   * [Timothy Gowers blog post](https://gowers.wordpress.com/2012/06/08/how-should-mathematics-be-taught-to-non-mathematicians/)
 
 #### How would you go about obtaining a random sample of 2,000 people eligible to vote at the next presidential election?
