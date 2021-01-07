@@ -1,4 +1,9 @@
 Source:
+  * [Terence Tao blog post](https://terrytao.wordpress.com/2008/12/09/an-airport-inspired-puzzle/)
+
+#### You are walking from one end of an airport terminal to the other. The airport has several moving walkways, and you need to stop to tie your shoelace. Assuming you want to get to the other end as quickly as possible, is it better to tie your shoelace while you are on a moving walkway or while you are between walkways?
+
+Source:
   * [FB post](https://m.facebook.com/story.php?story_fbid=10159302710865517&id=739115516&anchor_composer=false)
 
 #### Puzzle: Alice wants to join her school's Probability Student Club. Membership dues are computed via one of two simple probabilistic games. The first game: roll a dice repeatedly. Stop rolling once you get a five followed by a six. Your number of rolls is the amount you pay, in dollars. The second game: same, except that the stopping condition is a five followed by a five. Which of the two games should Alice elect to play?
@@ -18,10 +23,6 @@ Both players get one point for cooperating, both lose a points if both defect, a
 #### A widow dies and leaves the contents of her house to be divided up amongst her three children. The children do not care much about the financial value of the possessions, but they care a lot about the sentimental value. To complicate matters, the sentimental values they attach to the various possessions are quite different. What would be a fair way of dividing the possessions?
 
 #### Why does a mouse survive a big fall when a human doesn’t? 
-
-#### You are walking from one end of an airport terminal to the other. The airport has several moving walkways, and you need to stop to tie your shoelace. Assuming you want to get to the other end as quickly as possible, is it better to tie your shoelace while you are on a moving walkway or while you are between walkways?
-
-[Terence Tao blog post](https://terrytao.wordpress.com/2008/12/09/an-airport-inspired-puzzle/)
 
 #### You have probably heard that the distance to the sun is approximately 93 million miles. How on earth can we know something like that?
 
